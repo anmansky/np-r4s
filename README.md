@@ -2,13 +2,8 @@
 
 The latest version of the OpenWrt firmware can be downloaded in [Releases](https://github.com/ophub/op/releases). For detailed information about each firmware, please refer to the README.md file of each model. The currently supported router models are: 
 
-- [Amlogic_s9xxx](https://github.com/ophub/op/tree/master/router/amlogic_s9xxx)
-- [Linksys_WRT1900ACS](https://github.com/ophub/op/tree/master/router/linksys_wrt1900acs)
-- [Linksys_WRT3200ACM](https://github.com/ophub/op/tree/master/router/linksys_wrt3200acm)
-- [Linksys_WRT32X](https://github.com/ophub/op/tree/master/router/linksys_wrt32x)
-- [NanoPi_R2S](https://github.com/ophub/op/tree/master/router/nanopi_r2s)
 - [NanoPi_R4S](https://github.com/ophub/op/tree/master/router/nanopi_r4s)
-- [X86_64](https://github.com/ophub/op/tree/master/router/x86_64)
+
 
 ## Compilation method
 
