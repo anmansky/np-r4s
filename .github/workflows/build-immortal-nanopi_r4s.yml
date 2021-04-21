@@ -28,9 +28,9 @@ env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: openwrt-18.06-k5.4
   FEEDS_CONF: router/iwrt-18.06-5.4b-r4s/feeds.conf.default
-  CONFIG_FILE: router/nanopi_r4s/.config
-  DIY_P1_SH: router/nanopi_r4s/diy-part1.sh
-  DIY_P2_SH: router/nanopi_r4s/diy-part2.sh
+  CONFIG_FILE: router/iwrt-18.06-5.4b-r4s/.config
+  DIY_P1_SH: router/iwrt-18.06-5.4b-r4s/diy-part1.sh
+  DIY_P2_SH: router/iwrt-18.06-5.4b-r4s/diy-part2.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
