@@ -20,7 +20,7 @@ on:
       #- main
     #paths:
       #- 'router/iwrt-18.06-5.4b-r4s/.config'
-      #- '.github/workflows/build-openwrt-nanopi_r4s.yml'
+      #- '.github/workflows/build-immortal-nanopi_r4s.yml'
   schedule:
     - cron: '0 17 * * *'
 
