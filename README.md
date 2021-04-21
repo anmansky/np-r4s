@@ -2,7 +2,7 @@
 
 The latest version of the OpenWrt firmware can be downloaded in [Releases](https://github.com/ophub/op/releases). For detailed information about each firmware, please refer to the README.md file of each model. The currently supported router models are: 
 
-- [NanoPi_R4S](https://github.com/anmansky/np-r4s/release)
+- [NanoPi_R4S](https://github.com/anmansky/np-r4s/releases)
 
 
 ## Compilation method
