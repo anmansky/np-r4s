@@ -9,7 +9,7 @@ You can download the iwrt for NanoPi R4S firmware from [Releases](https://github
 
 ## Compilation method
 
-- Select ***`Build OpenWrt for NanoPi R4S`*** on the [Action](https://github.com/ophub/op/actions) page.
+- Select ***`Build OpenWrt for NanoPi R4S`*** on the [Action](https://github.com/anmansky/np-r4s/actions) page.
 - Click the ***`Run workflow`*** button.
 
 ## Configuration file function description
