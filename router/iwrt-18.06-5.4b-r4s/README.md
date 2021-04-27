@@ -4,7 +4,7 @@ You can download the iwrt for NanoPi R4S firmware from [Releases](https://github
 
 ## Instructions
 
-1. Before burning the system, it is recommended to format the TF card (MicroSD card/TF card: 8GB SDHC card of Class10 or above), and use a writing tool such as [balenaEtcher](https://www.balena.io/etcher/) to write the *.img file into the TF card.
+1. Before burning the system, it is recommended to format the TF card (MicroSD card/TF card: 8GB SDHC card of Class10 or above), and use a writing tool such as [balenaEtcher](https://www.balena.io/etcher/) to write the *.img.gz file into the TF card.
 2. Insert the completed TF card into the NanoPi-R4S card slot, power on and start (5V/2A), and see the SYS red light flashing, indicating that the system has successfully started.
 
 ## Compilation method
