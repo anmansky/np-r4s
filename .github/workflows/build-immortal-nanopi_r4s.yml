@@ -168,10 +168,10 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: immortalwrt_${{ env.DEVICE_NAME }}_${{ env.FILE_DATE }}
+        tag_name: iwrt_18.06_${{ env.DEVICE_NAME }}_${{ env.FILE_DATE }}
         files: ${{ env.FILEPATH }}/*
         body: |
-          This is OpenWrt firmware for ${{ env.DEVICE_NAME }}
+          This is ImmortalWrt 18.06-k5.4 firmware for ${{ env.DEVICE_NAME }}
           * Firmware information
           Default IP: 10.0.10.100
           Default username: root
