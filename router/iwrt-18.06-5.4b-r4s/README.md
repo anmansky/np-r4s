@@ -1,4 +1,4 @@
-# Immortalwrt for NanoPi R4S
+# Immortalwrt 18.06-k5.4 for NanoPi R4S
 
 You can download the iwrt for NanoPi R4S firmware from [Releases](https://github.com/ophub/op/releases). Such as `OpenWrt_NanoPi_R4S_${date}`.
 
