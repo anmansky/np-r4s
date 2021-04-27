@@ -56,9 +56,8 @@ You can download the iwrt for NanoPi R4S firmware from [Releases](https://github
 
 | Name | Value |
 | ---- | ---- |
-| Default IP | 192.168.1.1 |
+| Default IP | 10.0.10.100 |
 | Default username | root |
 | Default password | password |
-| Default WIFI name | OpenWrt |
-| Default WIFI password | none |
+| Default support WIFI driver rtl8812au-ac
 
