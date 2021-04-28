@@ -22,7 +22,7 @@ on:
       #- 'router/21.02/.config'
       #- '.github/workflows/build_21.02_r4s.yml'
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '0 17 * * 4'
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
@@ -168,7 +168,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: immortalwrt_${{ env.DEVICE_NAME }}_${{ env.FILE_DATE }}
+        tag_name: iwrt_21.02_${{ env.DEVICE_NAME }}_${{ env.FILE_DATE }}
         files: ${{ env.FILEPATH }}/*
         body: |
           This is OpenWrt firmware for ${{ env.DEVICE_NAME }}
