@@ -21,8 +21,8 @@ on:
     #paths:
       #- 'router/21.02/.config'
       #- '.github/workflows/build_21.02_r4s.yml'
-  schedule:
-    - cron: '0 17 * * 4'
+  #schedule:
+  #  - cron: '0 17 * * 4'
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
