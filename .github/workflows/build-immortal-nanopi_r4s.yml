@@ -21,8 +21,8 @@ on:
     #paths:
       #- 'router/iwrt-18.06-5.4b-r4s/.config'
       #- '.github/workflows/build-immortal-nanopi_r4s.yml'
-  schedule:
-    - cron: '0 17 * * 6'
+#  schedule:
+ #   - cron: '0 17 * * 6'
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
