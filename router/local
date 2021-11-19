@@ -5,23 +5,23 @@ http://10.0.10.100:2021/B1CEAEE0
 http://10.0.10.100:2021/32F56A90
 #EXTINF:-1 group-title="RUSSIA" tvg-id="87267430" tvg-name="1 Russia (spb)" tvg-logo="http://epg.it999.ru/img/711.png" tvg-chno="3" timeshift="8",1 Russia (spb)
 http://10.0.10.100:2021/87267430
-#EXTINF:-1 group-title="Українські" tvg-id="A0B7CEF1" tvg-name="1 Городской Кривой Рог HD (UA)" tvg-logo="http://ottpink.network/picons/pervygorkrrogtv.png" tvg-chno="4" timeshift="8",1 Городской Кривой Рог HD (UA)
-http://10.0.10.100:2021/A0B7CEF1
-#EXTINF:-1 group-title="Українські" tvg-id="CEEE19A4" tvg-name="1+1 (UA)" tvg-logo="http://ottpink.network/picons/odin_plus_odin.png" tvg-chno="5" timeshift="8",1+1 (UA)
-http://10.0.10.100:2021/CEEE19A4
-#EXTINF:-1 group-title="Українські" tvg-id="8D769882" tvg-name="1+1 HD (UA)" tvg-logo="http://ottpink.network/picons/1plus1hd.png" tvg-chno="6" timeshift="8",1+1 HD (UA)
-http://10.0.10.100:2021/8D769882
-#EXTINF:-1 group-title="Українські" tvg-id="09B4C724" tvg-name="100% News (UA)" tvg-logo="http://ottpink.network/picons/100prnewsod.png" tvg-chno="7" timeshift="8",100% News (UA)
-http://10.0.10.100:2021/09B4C724
-#EXTINF:-1 group-title="RUSSIA" tvg-id="9E63F09E" tvg-name="1kanal" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="8" timeshift="8",1kanal
+#EXTINF:-1 group-title="RUSSIA" tvg-id="9E63F09E" tvg-name="1 kanal" tvg-logo="http://epg.it999.ru/img/146.png" tvg-chno="4" timeshift="8",1 kanal
 http://10.0.10.100:2021/9E63F09E
+#EXTINF:-1 group-title="Українські" tvg-id="A0B7CEF1" tvg-name="1 Городской Кривой Рог HD (UA)" tvg-logo="http://ottpink.network/picons/pervygorkrrogtv.png" tvg-chno="5" timeshift="8",1 Городской Кривой Рог HD (UA)
+http://10.0.10.100:2021/A0B7CEF1
+#EXTINF:-1 group-title="Українські" tvg-id="CEEE19A4" tvg-name="1+1 (UA)" tvg-logo="http://ottpink.network/picons/odin_plus_odin.png" tvg-chno="6" timeshift="8",1+1 (UA)
+http://10.0.10.100:2021/CEEE19A4
+#EXTINF:-1 group-title="Українські" tvg-id="8D769882" tvg-name="1+1 HD (UA)" tvg-logo="http://ottpink.network/picons/1plus1hd.png" tvg-chno="7" timeshift="8",1+1 HD (UA)
+http://10.0.10.100:2021/8D769882
+#EXTINF:-1 group-title="Українські" tvg-id="09B4C724" tvg-name="100% News (UA)" tvg-logo="http://ottpink.network/picons/100prnewsod.png" tvg-chno="8" timeshift="8",100% News (UA)
+http://10.0.10.100:2021/09B4C724
 #EXTINF:-1 group-title="Music/Музыка" tvg-id="D1670AAD" tvg-name="1muz HD (BY/EN)" tvg-logo="http://ottpink.network/picons/oneby.png" tvg-chno="9" timeshift="8",1muz HD (BY/EN)
 http://10.0.10.100:2021/D1670AAD
 #EXTINF:-1 group-title="Українські" tvg-id="8B08DD2D" tvg-name="2+2 (UA)" tvg-logo="http://ottpink.network/picons/dva_plus_dva.png" tvg-chno="10" timeshift="8",2+2 (UA)
 http://10.0.10.100:2021/8B08DD2D
 #EXTINF:-1 group-title="Українські" tvg-id="FB3EF8CF" tvg-name="2+2 HD (UA)" tvg-logo="http://ottpink.network/picons/2plushd.png" tvg-chno="11" timeshift="8",2+2 HD (UA)
 http://10.0.10.100:2021/FB3EF8CF
-#EXTINF:-1 group-title="RUSSIA" tvg-id="06F9C85E" tvg-name="24 россия" tvg-logo="http://193.70.86.92/chlogo/logo/tv/num/24_tr.png" tvg-chno="12" timeshift="8",24 россия
+#EXTINF:-1 group-title="RUSSIA" tvg-id="06F9C85E" tvg-name="24 россия" tvg-logo="https://picon-13398.kxcdn.com/rossiya24ru.jpg" tvg-chno="12" timeshift="8",24 россия
 http://10.0.10.100:2021/06F9C85E
 #EXTINF:-1 group-title="Українські" tvg-id="1312D303" tvg-name="36.6 (UA)" tvg-logo="http://ottpink.network/picons/36-6-tv.png" tvg-chno="13" timeshift="8",36.6 (UA)
 http://10.0.10.100:2021/1312D303
@@ -39,7 +39,7 @@ http://10.0.10.100:2021/117127D9
 http://10.0.10.100:2021/F2DD92D8
 #EXTINF:-1 group-title="RUSSIA" tvg-id="ED926D78" tvg-name="4k lov nature" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="20" timeshift="8",4k lov nature
 http://10.0.10.100:2021/ED926D78
-#EXTINF:-1 group-title="RUSSIA" tvg-id="A8DF2D53" tvg-name="5 channel" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="21" timeshift="8",5 channel
+#EXTINF:-1 group-title="RUSSIA" tvg-id="A8DF2D53" tvg-name="5 channel" tvg-logo="http://epg.it999.ru/img/427.png" tvg-chno="21" timeshift="8",5 channel
 http://10.0.10.100:2021/A8DF2D53
 #EXTINF:-1 group-title="Українські" tvg-id="329BBD26" tvg-name="5 Канал HD" tvg-logo="http://ottpink.network/picons/5kanalhd.png" tvg-chno="22" timeshift="8",5 Канал HD
 http://10.0.10.100:2021/329BBD26
@@ -515,8 +515,8 @@ http://10.0.10.100:2021/C21C947A
 http://10.0.10.100:2021/4B90EAAF
 #EXTINF:-1 group-title="Movies/Фильмы" tvg-id="A9F9AAA6" tvg-name="TV1000 World Kino (RU)" tvg-logo="http://ottpink.network/picons/tv1000worldtv.png" tvg-chno="258" timeshift="8",TV1000 World Kino (RU)
 http://10.0.10.100:2021/A9F9AAA6
-#EXTINF:-1 group-title="Lietuviški" tvg-id="3C514BE2" tvg-name="TV3 Film HD (LT/LV/EE/RU)" tvg-logo="http://ottpink.network/picons/3filmhd.png" tvg-chno="259" timeshift="8",TV3 Film HD (LT/LV/EE/RU)
-http://10.0.10.100:2021/3C514BE2
+#EXTINF:-1 group-title="Lietuviški" tvg-id="FF377857" tvg-name="TV3 Film HD (LT)" tvg-logo="http://ottpink.network/picons/3filmhd.png" tvg-chno="259" timeshift="8",TV3 Film HD (LT)
+http://10.0.10.100:2021/FF377857
 #EXTINF:-1 group-title="Lietuviški" tvg-id="D90BF0C3" tvg-name="TV3 Lithuania HD (LT)" tvg-logo="http://ottpink.network/picons/tv3lthd.png" tvg-chno="260" timeshift="8",TV3 Lithuania HD (LT)
 http://10.0.10.100:2021/D90BF0C3
 #EXTINF:-1 group-title="Lietuviški" tvg-id="B2CC723D" tvg-name="TV3 Spоrt 2 HD (LT)" tvg-logo="http://ottpink.network/picons/3sport2.png" tvg-chno="261" timeshift="8",TV3 Spоrt 2 HD (LT)
@@ -615,225 +615,223 @@ http://10.0.10.100:2021/C468D3EF
 http://10.0.10.100:2021/9288F74E
 #EXTINF:-1 group-title="Sport/Спорт" tvg-id="86026801" tvg-name="XSport HD (UA)" tvg-logo="http://ottpink.network/picons/xsporthd.png" tvg-chno="308" timeshift="8",XSport HD (UA)
 http://10.0.10.100:2021/86026801
-#EXTINF:-1 group-title="RUSSIA" tvg-id="A1C5BD11" tvg-name="bbc" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="309" timeshift="8",bbc
-http://10.0.10.100:2021/A1C5BD11
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="2E1777E3" tvg-name="beIN SPORTS Xtra HD (EN)" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="310" timeshift="8",beIN SPORTS Xtra HD (EN)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="2E1777E3" tvg-name="beIN SPORTS Xtra HD (EN)" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="309" timeshift="8",beIN SPORTS Xtra HD (EN)
 http://10.0.10.100:2021/2E1777E3
-#EXTINF:-1 group-title="RUSSIA" tvg-id="988A2D13" tvg-name="r1" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="311" timeshift="8",r1
+#EXTINF:-1 group-title="RUSSIA" tvg-id="988A2D13" tvg-name="r1" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="310" timeshift="8",r1
 http://10.0.10.100:2021/988A2D13
-#EXTINF:-1 group-title="USA" tvg-id="5F889351" tvg-name="truTV East HD (EN)" tvg-logo="http://ottpink.network/picons/trutveast.png" tvg-chno="312" timeshift="8",truTV East HD (EN)
+#EXTINF:-1 group-title="USA" tvg-id="5F889351" tvg-name="truTV East HD (EN)" tvg-logo="http://ottpink.network/picons/trutveast.png" tvg-chno="311" timeshift="8",truTV East HD (EN)
 http://10.0.10.100:2021/5F889351
-#EXTINF:-1 group-title="Українські" tvg-id="B364472F" tvg-name="Індиго HD (UA)" tvg-logo="http://ottpink.network/picons/indigo_tv_hd.png" tvg-chno="313" timeshift="8",Індиго HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="B364472F" tvg-name="Індиго HD (UA)" tvg-logo="http://ottpink.network/picons/indigo_tv_hd.png" tvg-chno="312" timeshift="8",Індиго HD (UA)
 http://10.0.10.100:2021/B364472F
-#EXTINF:-1 group-title="Українські" tvg-id="383C1A85" tvg-name="Інтер (UA)" tvg-logo="http://ottpink.network/picons/interua.png" tvg-chno="314" timeshift="8",Інтер (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="383C1A85" tvg-name="Інтер (UA)" tvg-logo="http://ottpink.network/picons/interua.png" tvg-chno="313" timeshift="8",Інтер (UA)
 http://10.0.10.100:2021/383C1A85
-#EXTINF:-1 group-title="Українські" tvg-id="98E02A09" tvg-name="Інтер HD (UA)" tvg-logo="http://ottpink.network/picons/interua_hd.png" tvg-chno="315" timeshift="8",Інтер HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="98E02A09" tvg-name="Інтер HD (UA)" tvg-logo="http://ottpink.network/picons/interua_hd.png" tvg-chno="314" timeshift="8",Інтер HD (UA)
 http://10.0.10.100:2021/98E02A09
-#EXTINF:-1 group-title="Українські" tvg-id="C0281BA0" tvg-name="Інший HD (UA)" tvg-logo="http://ottpink.network/picons/inshiy.png" tvg-chno="316" timeshift="8",Інший HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="C0281BA0" tvg-name="Інший HD (UA)" tvg-logo="http://ottpink.network/picons/inshiy.png" tvg-chno="315" timeshift="8",Інший HD (UA)
 http://10.0.10.100:2021/C0281BA0
-#EXTINF:-1 group-title="Українські" tvg-id="0B5A95F0" tvg-name="Ісландія HD (UA)" tvg-logo="http://ottpink.network/picons/islandiya.png" tvg-chno="317" timeshift="8",Ісландія HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="0B5A95F0" tvg-name="Ісландія HD (UA)" tvg-logo="http://ottpink.network/picons/islandiya.png" tvg-chno="316" timeshift="8",Ісландія HD (UA)
 http://10.0.10.100:2021/0B5A95F0
-#EXTINF:-1 group-title="Українські" tvg-id="A4011DC1" tvg-name="Аверс (UA)" tvg-logo="http://ottpink.network/picons/aversukr.png" tvg-chno="318" timeshift="8",Аверс (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="A4011DC1" tvg-name="Аверс (UA)" tvg-logo="http://ottpink.network/picons/aversukr.png" tvg-chno="317" timeshift="8",Аверс (UA)
 http://10.0.10.100:2021/A4011DC1
-#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="AB3EB21F" tvg-name="Архыз 24 HD (RU)" tvg-logo="http://ottpink.network/picons/arkhiz24.png" tvg-chno="319" timeshift="8",Архыз 24 HD (RU)
+#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="AB3EB21F" tvg-name="Архыз 24 HD (RU)" tvg-logo="http://ottpink.network/picons/arkhiz24.png" tvg-chno="318" timeshift="8",Архыз 24 HD (RU)
 http://10.0.10.100:2021/AB3EB21F
-#EXTINF:-1 group-title="Українські" tvg-id="DE9704A1" tvg-name="Бiгудi (UA)" tvg-logo="http://ottpink.network/picons/biguditv.png" tvg-chno="320" timeshift="8",Бiгудi (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="DE9704A1" tvg-name="Бiгудi (UA)" tvg-logo="http://ottpink.network/picons/biguditv.png" tvg-chno="319" timeshift="8",Бiгудi (UA)
 http://10.0.10.100:2021/DE9704A1
-#EXTINF:-1 group-title="Беларускія" tvg-id="4CBD5695" tvg-name="БелРос (BY)" tvg-logo="http://ottpink.network/picons/belrostvhd.png" tvg-chno="321" timeshift="8",БелРос (BY)
+#EXTINF:-1 group-title="Беларускія" tvg-id="4CBD5695" tvg-name="БелРос (BY)" tvg-logo="http://ottpink.network/picons/belrostvhd.png" tvg-chno="320" timeshift="8",БелРос (BY)
 http://10.0.10.100:2021/4CBD5695
-#EXTINF:-1 group-title="Беларускія" tvg-id="23BDCF00" tvg-name="Беларусь 24 HD" tvg-logo="http://ottpink.network/picons/belarus24hdtv.png" tvg-chno="322" timeshift="8",Беларусь 24 HD
+#EXTINF:-1 group-title="Беларускія" tvg-id="23BDCF00" tvg-name="Беларусь 24 HD" tvg-logo="http://ottpink.network/picons/belarus24hdtv.png" tvg-chno="321" timeshift="8",Беларусь 24 HD
 http://10.0.10.100:2021/23BDCF00
-#EXTINF:-1 group-title="Беларускія" tvg-id="61D54ABB" tvg-name="Белсат TV (BY)" tvg-logo="http://ottpink.network/picons/belsat.png" tvg-chno="323" timeshift="8",Белсат TV (BY)
+#EXTINF:-1 group-title="Беларускія" tvg-id="61D54ABB" tvg-name="Белсат TV (BY)" tvg-logo="http://ottpink.network/picons/belsat.png" tvg-chno="322" timeshift="8",Белсат TV (BY)
 http://10.0.10.100:2021/61D54ABB
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="2608116B" tvg-name="Блокбастер HD (RU)" tvg-logo="http://ottpink.network/picons/blokbastertv.png" tvg-chno="324" timeshift="8",Блокбастер HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="2608116B" tvg-name="Блокбастер HD (RU)" tvg-logo="http://ottpink.network/picons/blokbastertv.png" tvg-chno="323" timeshift="8",Блокбастер HD (RU)
 http://10.0.10.100:2021/2608116B
-#EXTINF:-1 group-title="Українські" tvg-id="F8A5072C" tvg-name="Відродження (UA)" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="325" timeshift="8",Відродження (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="F8A5072C" tvg-name="Відродження (UA)" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="324" timeshift="8",Відродження (UA)
 http://10.0.10.100:2021/F8A5072C
-#EXTINF:-1 group-title="Українські" tvg-id="76FA73F6" tvg-name="Галичина (UA)" tvg-logo="http://ottpink.network/picons/galychina.png" tvg-chno="326" timeshift="8",Галичина (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="76FA73F6" tvg-name="Галичина (UA)" tvg-logo="http://ottpink.network/picons/galychina.png" tvg-chno="325" timeshift="8",Галичина (UA)
 http://10.0.10.100:2021/76FA73F6
-#EXTINF:-1 group-title="Українські" tvg-id="0F5E72FA" tvg-name="Дача (UA)" tvg-logo="http://ottpink.network/picons/dacha.png" tvg-chno="327" timeshift="8",Дача (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="0F5E72FA" tvg-name="Дача (UA)" tvg-logo="http://ottpink.network/picons/dacha.png" tvg-chno="326" timeshift="8",Дача (UA)
 http://10.0.10.100:2021/0F5E72FA
-#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="E2CAFBA3" tvg-name="Дождь HD/SD (RU)" tvg-logo="http://ottpink.network/picons/dozhd-rain.png" tvg-chno="328" timeshift="8",Дождь HD/SD (RU)
+#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="E2CAFBA3" tvg-name="Дождь HD/SD (RU)" tvg-logo="http://ottpink.network/picons/dozhd-rain.png" tvg-chno="327" timeshift="8",Дождь HD/SD (RU)
 http://10.0.10.100:2021/E2CAFBA3
-#EXTINF:-1 group-title="RUSSIA" tvg-id="FE87A3C8" tvg-name="Дом Кино" tvg-logo="http://epg.it999.ru/img/834.png" tvg-chno="329" timeshift="8",Дом Кино
+#EXTINF:-1 group-title="RUSSIA" tvg-id="FE87A3C8" tvg-name="Дом Кино" tvg-logo="http://epg.it999.ru/img/834.png" tvg-chno="328" timeshift="8",Дом Кино
 http://10.0.10.100:2021/FE87A3C8
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="64B7B9DA" tvg-name="Дом Кино Премиум HD (RU)" tvg-logo="http://ottpink.network/picons/domkinopremium.png" tvg-chno="330" timeshift="8",Дом Кино Премиум HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="64B7B9DA" tvg-name="Дом Кино Премиум HD (RU)" tvg-logo="http://ottpink.network/picons/domkinopremium.png" tvg-chno="329" timeshift="8",Дом Кино Премиум HD (RU)
 http://10.0.10.100:2021/64B7B9DA
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="6AA91B22" tvg-name="Дорама (RU)" tvg-logo="http://ottpink.network/picons/dorama.png" tvg-chno="331" timeshift="8",Дорама (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="6AA91B22" tvg-name="Дорама (RU)" tvg-logo="http://ottpink.network/picons/dorama.png" tvg-chno="330" timeshift="8",Дорама (RU)
 http://10.0.10.100:2021/6AA91B22
-#EXTINF:-1 group-title="Українські" tvg-id="7E6A58AA" tvg-name="Еспресо HD (UA)" tvg-logo="http://ottpink.network/picons/espresotvhd.png" tvg-chno="332" timeshift="8",Еспресо HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="7E6A58AA" tvg-name="Еспресо HD (UA)" tvg-logo="http://ottpink.network/picons/espresotvhd.png" tvg-chno="331" timeshift="8",Еспресо HD (UA)
 http://10.0.10.100:2021/7E6A58AA
-#EXTINF:-1 group-title="RUSSIA" tvg-id="0BBBC5E3" tvg-name="Звезда" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="333" timeshift="8",Звезда
+#EXTINF:-1 group-title="RUSSIA" tvg-id="0BBBC5E3" tvg-name="Звезда" tvg-logo="http://epg.it999.ru/img/405.png" tvg-chno="332" timeshift="8",Звезда
 http://10.0.10.100:2021/0BBBC5E3
-#EXTINF:-1 group-title="RUSSIA" tvg-id="9FDCCCB5" tvg-name="Известия" tvg-logo="http://epg.it999.ru/img/2271.png" tvg-chno="334" timeshift="8",Известия
+#EXTINF:-1 group-title="RUSSIA" tvg-id="9FDCCCB5" tvg-name="Известия" tvg-logo="http://epg.it999.ru/img/2271.png" tvg-chno="333" timeshift="8",Известия
 http://10.0.10.100:2021/9FDCCCB5
-#EXTINF:-1 group-title="RUSSIA" tvg-id="30B389A9" tvg-name="КИНО ТВ HD" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-chno="335" timeshift="8",КИНО ТВ HD
+#EXTINF:-1 group-title="RUSSIA" tvg-id="30B389A9" tvg-name="КИНО ТВ HD" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-chno="334" timeshift="8",КИНО ТВ HD
 http://10.0.10.100:2021/30B389A9
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="7232D03F" tvg-name="КХЛ Prime HD (RU)" tvg-logo="http://ottpink.network/picons/khltvhd.png" tvg-chno="336" timeshift="8",КХЛ Prime HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="7232D03F" tvg-name="КХЛ Prime HD (RU)" tvg-logo="http://ottpink.network/picons/khltvhd.png" tvg-chno="335" timeshift="8",КХЛ Prime HD (RU)
 http://10.0.10.100:2021/7232D03F
-#EXTINF:-1 group-title="RUSSIA" tvg-id="AAC85D2D" tvg-name="Камчатка HD" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1576718811392.png" tvg-chno="337" timeshift="8",Камчатка HD
+#EXTINF:-1 group-title="RUSSIA" tvg-id="AAC85D2D" tvg-name="Камчатка HD" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1576718811392.png" tvg-chno="336" timeshift="8",Камчатка HD
 http://10.0.10.100:2021/AAC85D2D
-#EXTINF:-1 group-title="Українські" tvg-id="67BEFEBE" tvg-name="Канал 24 HD (UA)" tvg-logo="http://ottpink.network/picons/kanal24hd.png" tvg-chno="338" timeshift="8",Канал 24 HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="67BEFEBE" tvg-name="Канал 24 HD (UA)" tvg-logo="http://ottpink.network/picons/kanal24hd.png" tvg-chno="337" timeshift="8",Канал 24 HD (UA)
 http://10.0.10.100:2021/67BEFEBE
-#EXTINF:-1 group-title="Entertainment/Развлекательные" tvg-id="8ED6F58A" tvg-name="Квартал ТВ (UA-RU)" tvg-logo="http://ottpink.network/picons/kvartaltvch.png" tvg-chno="339" timeshift="8",Квартал ТВ (UA-RU)
+#EXTINF:-1 group-title="Entertainment/Развлекательные" tvg-id="8ED6F58A" tvg-name="Квартал ТВ (UA-RU)" tvg-logo="http://ottpink.network/picons/kvartaltvch.png" tvg-chno="338" timeshift="8",Квартал ТВ (UA-RU)
 http://10.0.10.100:2021/8ED6F58A
-#EXTINF:-1 group-title="4K UHD" tvg-id="9B3E0588" tvg-name="Кино UHD (RU)" tvg-logo="http://ottpink.network/picons/kinoultrahd.png" tvg-chno="340" timeshift="8",Кино UHD (RU)
+#EXTINF:-1 group-title="4K UHD" tvg-id="9B3E0588" tvg-name="Кино UHD (RU)" tvg-logo="http://ottpink.network/picons/kinoultrahd.png" tvg-chno="339" timeshift="8",Кино UHD (RU)
 http://10.0.10.100:2021/9B3E0588
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="9CCD4742" tvg-name="Кинокомедия (RU)" tvg-logo="http://ottpink.network/picons/kinokomediyatv.png" tvg-chno="341" timeshift="8",Кинокомедия (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="9CCD4742" tvg-name="Кинокомедия (RU)" tvg-logo="http://ottpink.network/picons/kinokomediyatv.png" tvg-chno="340" timeshift="8",Кинокомедия (RU)
 http://10.0.10.100:2021/9CCD4742
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="FEE36130" tvg-name="Киномикс (RU)" tvg-logo="http://ottpink.network/picons/kinomikstv.png" tvg-chno="342" timeshift="8",Киномикс (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="FEE36130" tvg-name="Киномикс (RU)" tvg-logo="http://ottpink.network/picons/kinomikstv.png" tvg-chno="341" timeshift="8",Киномикс (RU)
 http://10.0.10.100:2021/FEE36130
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="08464153" tvg-name="Кинопремьера HD (RU)" tvg-logo="http://ottpink.network/picons/kinopremiera.png" tvg-chno="343" timeshift="8",Кинопремьера HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="08464153" tvg-name="Кинопремьера HD (RU)" tvg-logo="http://ottpink.network/picons/kinopremiera.png" tvg-chno="342" timeshift="8",Кинопремьера HD (RU)
 http://10.0.10.100:2021/08464153
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="FA32BCC9" tvg-name="Киносвидание (RU)" tvg-logo="http://ottpink.network/picons/kinosvidanietv.png" tvg-chno="344" timeshift="8",Киносвидание (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="FA32BCC9" tvg-name="Киносвидание (RU)" tvg-logo="http://ottpink.network/picons/kinosvidanietv.png" tvg-chno="343" timeshift="8",Киносвидание (RU)
 http://10.0.10.100:2021/FA32BCC9
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="7A36589D" tvg-name="Киносерия (RU)" tvg-logo="http://ottpink.network/picons/kinoseriyatv.png" tvg-chno="345" timeshift="8",Киносерия (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="7A36589D" tvg-name="Киносерия (RU)" tvg-logo="http://ottpink.network/picons/kinoseriyatv.png" tvg-chno="344" timeshift="8",Киносерия (RU)
 http://10.0.10.100:2021/7A36589D
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="15E40DCF" tvg-name="Киноужас (RU)" tvg-logo="http://ottpink.network/picons/kinouzhastv.png" tvg-chno="346" timeshift="8",Киноужас (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="15E40DCF" tvg-name="Киноужас (RU)" tvg-logo="http://ottpink.network/picons/kinouzhastv.png" tvg-chno="345" timeshift="8",Киноужас (RU)
 http://10.0.10.100:2021/15E40DCF
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="0E2272C1" tvg-name="Комедийное HD (RU)" tvg-logo="http://ottpink.network/picons/komediynoetvhd.png" tvg-chno="347" timeshift="8",Комедийное HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="0E2272C1" tvg-name="Комедийное HD (RU)" tvg-logo="http://ottpink.network/picons/komediynoetvhd.png" tvg-chno="346" timeshift="8",Комедийное HD (RU)
 http://10.0.10.100:2021/0E2272C1
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="A7FB90D5" tvg-name="Конный Мир HD (RU)" tvg-logo="http://ottpink.network/picons/konnmir.png" tvg-chno="348" timeshift="8",Конный Мир HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="A7FB90D5" tvg-name="Конный Мир HD (RU)" tvg-logo="http://ottpink.network/picons/konnmir.png" tvg-chno="347" timeshift="8",Конный Мир HD (RU)
 http://10.0.10.100:2021/A7FB90D5
-#EXTINF:-1 group-title="RUSSIA" tvg-id="FC7A4815" tvg-name="Кузбасс 1" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="349" timeshift="8",Кузбасс 1
+#EXTINF:-1 group-title="RUSSIA" tvg-id="FC7A4815" tvg-name="Кузбасс 1" tvg-logo="https://ic.wampi.ru/2021/04/14/fba3dce83848c34fe8b90e84227a5c0d.jpg" tvg-chno="348" timeshift="8",Кузбасс 1
 http://10.0.10.100:2021/FC7A4815
-#EXTINF:-1 group-title="Українські" tvg-id="EB67CCCD" tvg-name="Культура (UA)" tvg-logo="http://ottpink.network/picons/kulturauatv.png" tvg-chno="350" timeshift="8",Культура (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="EB67CCCD" tvg-name="Культура (UA)" tvg-logo="http://ottpink.network/picons/kulturauatv.png" tvg-chno="349" timeshift="8",Культура (UA)
 http://10.0.10.100:2021/EB67CCCD
-#EXTINF:-1 group-title="Українські" tvg-id="B3B5D5C6" tvg-name="Кус-Кус HD (UA)" tvg-logo="http://ottpink.network/picons/kuskus.png" tvg-chno="351" timeshift="8",Кус-Кус HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="B3B5D5C6" tvg-name="Кус-Кус HD (UA)" tvg-logo="http://ottpink.network/picons/kuskus.png" tvg-chno="350" timeshift="8",Кус-Кус HD (UA)
 http://10.0.10.100:2021/B3B5D5C6
-#EXTINF:-1 group-title="RUSSIA" tvg-id="8690C951" tvg-name="Лен ТВ 24" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="352" timeshift="8",Лен ТВ 24
+#EXTINF:-1 group-title="RUSSIA" tvg-id="8690C951" tvg-name="Лен ТВ 24" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="351" timeshift="8",Лен ТВ 24
 http://10.0.10.100:2021/8690C951
-#EXTINF:-1 group-title="RUSSIA" tvg-id="AD8B044B" tvg-name="Любимое Кино" tvg-logo="http://epg.it999.ru/img/477.png" tvg-chno="353" timeshift="8",Любимое Кино
+#EXTINF:-1 group-title="RUSSIA" tvg-id="AD8B044B" tvg-name="Любимое Кино" tvg-logo="http://epg.it999.ru/img/477.png" tvg-chno="352" timeshift="8",Любимое Кино
 http://10.0.10.100:2021/AD8B044B
-#EXTINF:-1 group-title="Українські" tvg-id="DF56B473" tvg-name="МЕГА HD (UA)" tvg-logo="http://ottpink.network/picons/mega.png" tvg-chno="354" timeshift="8",МЕГА HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="DF56B473" tvg-name="МЕГА HD (UA)" tvg-logo="http://ottpink.network/picons/mega.png" tvg-chno="353" timeshift="8",МЕГА HD (UA)
 http://10.0.10.100:2021/DF56B473
-#EXTINF:-1 group-title="Kids/Дитячі/Детские" tvg-id="0DF3ED5E" tvg-name="Малятко (UA)" tvg-logo="http://ottpink.network/picons/malyatkotvukr.png" tvg-chno="355" timeshift="8",Малятко (UA)
+#EXTINF:-1 group-title="Kids/Дитячі/Детские" tvg-id="0DF3ED5E" tvg-name="Малятко (UA)" tvg-logo="http://ottpink.network/picons/malyatkotvukr.png" tvg-chno="354" timeshift="8",Малятко (UA)
 http://10.0.10.100:2021/0DF3ED5E
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="141EB127" tvg-name="Матч! HD (RU)" tvg-logo="http://ottpink.network/picons/matchtv.png" tvg-chno="356" timeshift="8",Матч! HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="141EB127" tvg-name="Матч! HD (RU)" tvg-logo="http://ottpink.network/picons/matchtv.png" tvg-chno="355" timeshift="8",Матч! HD (RU)
 http://10.0.10.100:2021/141EB127
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="0E8BAD58" tvg-name="Матч! Арена HD (RU)" tvg-logo="http://ottpink.network/picons/matcharenatv.png" tvg-chno="357" timeshift="8",Матч! Арена HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="0E8BAD58" tvg-name="Матч! Арена HD (RU)" tvg-logo="http://ottpink.network/picons/matcharenatv.png" tvg-chno="356" timeshift="8",Матч! Арена HD (RU)
 http://10.0.10.100:2021/0E8BAD58
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="C2A5DED5" tvg-name="Матч! Игра HD (RU)" tvg-logo="http://ottpink.network/picons/matchigratv.png" tvg-chno="358" timeshift="8",Матч! Игра HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="C2A5DED5" tvg-name="Матч! Игра HD (RU)" tvg-logo="http://ottpink.network/picons/matchigratv.png" tvg-chno="357" timeshift="8",Матч! Игра HD (RU)
 http://10.0.10.100:2021/C2A5DED5
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="9659871E" tvg-name="Матч! Премьер HD (RU)" tvg-logo="http://ottpink.network/picons/matchpremiertv.png" tvg-chno="359" timeshift="8",Матч! Премьер HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="9659871E" tvg-name="Матч! Премьер HD (RU)" tvg-logo="http://ottpink.network/picons/matchpremiertv.png" tvg-chno="358" timeshift="8",Матч! Премьер HD (RU)
 http://10.0.10.100:2021/9659871E
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="839D5478" tvg-name="Матч! Страна (RU)" tvg-logo="http://ottpink.network/picons/matchstranatv.png" tvg-chno="360" timeshift="8",Матч! Страна (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="839D5478" tvg-name="Матч! Страна (RU)" tvg-logo="http://ottpink.network/picons/matchstranatv.png" tvg-chno="359" timeshift="8",Матч! Страна (RU)
 http://10.0.10.100:2021/839D5478
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="6DD3945F" tvg-name="Матч! Футбол 1 HD (RU)" tvg-logo="http://ottpink.network/picons/matchfutbol1tv.png" tvg-chno="361" timeshift="8",Матч! Футбол 1 HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="6DD3945F" tvg-name="Матч! Футбол 1 HD (RU)" tvg-logo="http://ottpink.network/picons/matchfutbol1tv.png" tvg-chno="360" timeshift="8",Матч! Футбол 1 HD (RU)
 http://10.0.10.100:2021/6DD3945F
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="2A73EE8F" tvg-name="Матч! Футбол 2 HD (RU)" tvg-logo="http://ottpink.network/picons/matchfutbol2tv.png" tvg-chno="362" timeshift="8",Матч! Футбол 2 HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="2A73EE8F" tvg-name="Матч! Футбол 2 HD (RU)" tvg-logo="http://ottpink.network/picons/matchfutbol2tv.png" tvg-chno="361" timeshift="8",Матч! Футбол 2 HD (RU)
 http://10.0.10.100:2021/2A73EE8F
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="1713C73F" tvg-name="Матч! Футбол 3 HD (RU)" tvg-logo="http://ottpink.network/picons/matchfutbol3tv.png" tvg-chno="363" timeshift="8",Матч! Футбол 3 HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="1713C73F" tvg-name="Матч! Футбол 3 HD (RU)" tvg-logo="http://ottpink.network/picons/matchfutbol3tv.png" tvg-chno="362" timeshift="8",Матч! Футбол 3 HD (RU)
 http://10.0.10.100:2021/1713C73F
-#EXTINF:-1 group-title="RUSSIA" tvg-id="B2A71195" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="http://epg.it999.ru/img/3357.png" tvg-chno="364" timeshift="8",Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="RUSSIA" tvg-id="B2A71195" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="http://epg.it999.ru/img/3357.png" tvg-chno="363" timeshift="8",Мосфильм. Золотая коллекция HD
 http://10.0.10.100:2021/B2A71195
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="285D1110" tvg-name="Мужское Кино (RU)" tvg-logo="http://ottpink.network/picons/muzhskoekinotv.png" tvg-chno="365" timeshift="8",Мужское Кино (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="285D1110" tvg-name="Мужское Кино (RU)" tvg-logo="http://ottpink.network/picons/muzhskoekinotv.png" tvg-chno="364" timeshift="8",Мужское Кино (RU)
 http://10.0.10.100:2021/285D1110
-#EXTINF:-1 group-title="Українські" tvg-id="011CC62A" tvg-name="Нoвий Кaнал HD (UA)" tvg-logo="http://ottpink.network/picons/novkanhd.png" tvg-chno="366" timeshift="8",Нoвий Кaнал HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="011CC62A" tvg-name="Нoвий Кaнал HD (UA)" tvg-logo="http://ottpink.network/picons/novkanhd.png" tvg-chno="365" timeshift="8",Нoвий Кaнал HD (UA)
 http://10.0.10.100:2021/011CC62A
-#EXTINF:-1 group-title="Українські" tvg-id="D3D907D7" tvg-name="НАШ HD (UA)" tvg-logo="http://ottpink.network/picons/nash.png" tvg-chno="367" timeshift="8",НАШ HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="D3D907D7" tvg-name="НАШ HD (UA)" tvg-logo="http://ottpink.network/picons/nash.png" tvg-chno="366" timeshift="8",НАШ HD (UA)
 http://10.0.10.100:2021/D3D907D7
-#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="1CD0BEF5" tvg-name="НТВ-Мир Балтия (RU)" tvg-logo="http://ottpink.network/picons/ntv-mir-baltia.png" tvg-chno="368" timeshift="8",НТВ-Мир Балтия (RU)
+#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="1CD0BEF5" tvg-name="НТВ-Мир Балтия (RU)" tvg-logo="http://ottpink.network/picons/ntv-mir-baltia.png" tvg-chno="367" timeshift="8",НТВ-Мир Балтия (RU)
 http://10.0.10.100:2021/1CD0BEF5
-#EXTINF:-1 group-title="Українські" tvg-id="85E4845A" tvg-name="НТН HD (UA)" tvg-logo="http://ottpink.network/picons/ntnukr.png" tvg-chno="369" timeshift="8",НТН HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="85E4845A" tvg-name="НТН HD (UA)" tvg-logo="http://ottpink.network/picons/ntnukr.png" tvg-chno="368" timeshift="8",НТН HD (UA)
 http://10.0.10.100:2021/85E4845A
-#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="B802CE90" tvg-name="Настоящее время HD (RU)" tvg-logo="http://ottpink.network/picons/nastoyastsheevremyatv.png" tvg-chno="370" timeshift="8",Настоящее время HD (RU)
+#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="B802CE90" tvg-name="Настоящее время HD (RU)" tvg-logo="http://ottpink.network/picons/nastoyastsheevremyatv.png" tvg-chno="369" timeshift="8",Настоящее время HD (RU)
 http://10.0.10.100:2021/B802CE90
-#EXTINF:-1 group-title="Українські" tvg-id="44E8C7A8" tvg-name="Наука (UA)" tvg-logo="http://ottpink.network/picons/naukatv.png" tvg-chno="371" timeshift="8",Наука (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="44E8C7A8" tvg-name="Наука (UA)" tvg-logo="http://ottpink.network/picons/naukatv.png" tvg-chno="370" timeshift="8",Наука (UA)
 http://10.0.10.100:2021/44E8C7A8
-#EXTINF:-1 group-title="RUSSIA" tvg-id="BAD79F1B" tvg-name="Наше любимое HD" tvg-logo="http://epg.it999.ru/img/2509.png" tvg-chno="372" timeshift="8",Наше любимое HD
+#EXTINF:-1 group-title="RUSSIA" tvg-id="BAD79F1B" tvg-name="Наше любимое HD" tvg-logo="http://epg.it999.ru/img/2509.png" tvg-chno="371" timeshift="8",Наше любимое HD
 http://10.0.10.100:2021/BAD79F1B
-#EXTINF:-1 group-title="Українські" tvg-id="7856D74D" tvg-name="ОЦЕ HD (UA)" tvg-logo="http://ottpink.network/picons/otsetvhd.png" tvg-chno="373" timeshift="8",ОЦЕ HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="7856D74D" tvg-name="ОЦЕ HD (UA)" tvg-logo="http://ottpink.network/picons/otsetvhd.png" tvg-chno="372" timeshift="8",ОЦЕ HD (UA)
 http://10.0.10.100:2021/7856D74D
-#EXTINF:-1 group-title="Українські" tvg-id="5FAC7DD3" tvg-name="Обозреватель HD (UA)" tvg-logo="http://ottpink.network/picons/obozrevattv.png" tvg-chno="374" timeshift="8",Обозреватель HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="5FAC7DD3" tvg-name="Обозреватель HD (UA)" tvg-logo="http://ottpink.network/picons/obozrevattv.png" tvg-chno="373" timeshift="8",Обозреватель HD (UA)
 http://10.0.10.100:2021/5FAC7DD3
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="753088F3" tvg-name="Остросюжетное HD (RU)" tvg-logo="http://ottpink.network/picons/ostrosyuzhetnoetv.png" tvg-chno="375" timeshift="8",Остросюжетное HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="753088F3" tvg-name="Остросюжетное HD (RU)" tvg-logo="http://ottpink.network/picons/ostrosyuzhetnoetv.png" tvg-chno="374" timeshift="8",Остросюжетное HD (RU)
 http://10.0.10.100:2021/753088F3
-#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="8E3BC87E" tvg-name="Перец International (RU)" tvg-logo="http://ottpink.network/picons/peretz_int.png" tvg-chno="376" timeshift="8",Перец International (RU)
+#EXTINF:-1 group-title="Русские Интернациональные" tvg-id="8E3BC87E" tvg-name="Перец International (RU)" tvg-logo="http://ottpink.network/picons/peretz_int.png" tvg-chno="375" timeshift="8",Перец International (RU)
 http://10.0.10.100:2021/8E3BC87E
-#EXTINF:-1 group-title="RUSSIA" tvg-id="9F65C658" tvg-name="Пираты Карибского моря: Проклятие Черной жемчужины (2003)" tvg-logo="https://hdru.net/posters/1493363481.jpg" tvg-chno="377" timeshift="8",Пираты Карибского моря: Проклятие Черной жемчужины (2003)
+#EXTINF:-1 group-title="RUSSIA" tvg-id="9F65C658" tvg-name="Пираты Карибского моря: Проклятие Черной жемчужины (2003)" tvg-logo="https://hdru.net/posters/1493363481.jpg" tvg-chno="376" timeshift="8",Пираты Карибского моря: Проклятие Черной жемчужины (2003)
 http://10.0.10.100:2021/9F65C658
-#EXTINF:-1 group-title="RUSSIA" tvg-id="9AC0ACD8" tvg-name="Пираты Карибского моря: Сундук мертвеца (2006)" tvg-logo="https://hdru.net/posters/1493363492.jpg" tvg-chno="378" timeshift="8",Пираты Карибского моря: Сундук мертвеца (2006)
+#EXTINF:-1 group-title="RUSSIA" tvg-id="9AC0ACD8" tvg-name="Пираты Карибского моря: Сундук мертвеца (2006)" tvg-logo="https://hdru.net/posters/1493363492.jpg" tvg-chno="377" timeshift="8",Пираты Карибского моря: Сундук мертвеца (2006)
 http://10.0.10.100:2021/9AC0ACD8
-#EXTINF:-1 group-title="Kids/Дитячі/Детские" tvg-id="134EA35A" tvg-name="Плюс-Плюс (UA)" tvg-logo="http://ottpink.network/picons/plusplusua.png" tvg-chno="379" timeshift="8",Плюс-Плюс (UA)
+#EXTINF:-1 group-title="Kids/Дитячі/Детские" tvg-id="134EA35A" tvg-name="Плюс-Плюс (UA)" tvg-logo="http://ottpink.network/picons/plusplusua.png" tvg-chno="378" timeshift="8",Плюс-Плюс (UA)
 http://10.0.10.100:2021/134EA35A
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="527229FB" tvg-name="Победа ТВ HD (RU)" tvg-logo="http://ottpink.network/picons/pobeda-tv.png" tvg-chno="380" timeshift="8",Победа ТВ HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="527229FB" tvg-name="Победа ТВ HD (RU)" tvg-logo="http://ottpink.network/picons/pobeda-tv.png" tvg-chno="379" timeshift="8",Победа ТВ HD (RU)
 http://10.0.10.100:2021/527229FB
-#EXTINF:-1 group-title="Українські" tvg-id="097B5D00" tvg-name="Погляд HD (UA)" tvg-logo="http://ottpink.network/picons/poglyad.png" tvg-chno="381" timeshift="8",Погляд HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="097B5D00" tvg-name="Погляд HD (UA)" tvg-logo="http://ottpink.network/picons/poglyad.png" tvg-chno="380" timeshift="8",Погляд HD (UA)
 http://10.0.10.100:2021/097B5D00
-#EXTINF:-1 group-title="RUSSIA" tvg-id="BEF1F6ED" tvg-name="Погода Москва" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="382" timeshift="8",Погода Москва
+#EXTINF:-1 group-title="RUSSIA" tvg-id="BEF1F6ED" tvg-name="Погода Москва" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="381" timeshift="8",Погода Москва
 http://10.0.10.100:2021/BEF1F6ED
-#EXTINF:-1 group-title="RUSSIA" tvg-id="9308238A" tvg-name="Погода Санкт-Петербург" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="383" timeshift="8",Погода Санкт-Петербург
+#EXTINF:-1 group-title="RUSSIA" tvg-id="9308238A" tvg-name="Погода Санкт-Петербург" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="382" timeshift="8",Погода Санкт-Петербург
 http://10.0.10.100:2021/9308238A
-#EXTINF:-1 group-title="Українські" tvg-id="F26D118F" tvg-name="Правда ТуТ (UA)" tvg-logo="http://ottpink.network/picons/pravdatut.png" tvg-chno="384" timeshift="8",Правда ТуТ (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="F26D118F" tvg-name="Правда ТуТ (UA)" tvg-logo="http://ottpink.network/picons/pravdatut.png" tvg-chno="383" timeshift="8",Правда ТуТ (UA)
 http://10.0.10.100:2021/F26D118F
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="E5455722" tvg-name="Премиальное HD (RU)" tvg-logo="http://ottpink.network/picons/premialnoetv.png" tvg-chno="385" timeshift="8",Премиальное HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="E5455722" tvg-name="Премиальное HD (RU)" tvg-logo="http://ottpink.network/picons/premialnoetv.png" tvg-chno="384" timeshift="8",Премиальное HD (RU)
 http://10.0.10.100:2021/E5455722
-#EXTINF:-1 group-title="Українські" tvg-id="27A157E0" tvg-name="Прямий HD (UA)" tvg-logo="http://ottpink.network/picons/pryamhd.png" tvg-chno="386" timeshift="8",Прямий HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="27A157E0" tvg-name="Прямий HD (UA)" tvg-logo="http://ottpink.network/picons/pryamhd.png" tvg-chno="385" timeshift="8",Прямий HD (UA)
 http://10.0.10.100:2021/27A157E0
-#EXTINF:-1 group-title="Українські" tvg-id="766B79E0" tvg-name="Піксель (UA)" tvg-logo="http://ottpink.network/picons/pikseltvukr.png" tvg-chno="387" timeshift="8",Піксель (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="766B79E0" tvg-name="Піксель (UA)" tvg-logo="http://ottpink.network/picons/pikseltvukr.png" tvg-chno="386" timeshift="8",Піксель (UA)
 http://10.0.10.100:2021/766B79E0
-#EXTINF:-1 group-title="RUSSIA" tvg-id="DE475A26" tvg-name="РТР Россия" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="388" timeshift="8",РТР Россия
+#EXTINF:-1 group-title="RUSSIA" tvg-id="DE475A26" tvg-name="РТР Россия" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="387" timeshift="8",РТР Россия
 http://10.0.10.100:2021/DE475A26
-#EXTINF:-1 group-title="Radio/Радіо/Радио" tvg-id="C2BC6F81" tvg-name="Радіо TVA (UA)" tvg-logo="http://ottpink.network/picons/tva_fm.png" tvg-chno="389" timeshift="8",Радіо TVA (UA)
+#EXTINF:-1 group-title="Radio/Радіо/Радио" tvg-id="C2BC6F81" tvg-name="Радіо TVA (UA)" tvg-logo="http://ottpink.network/picons/tva_fm.png" tvg-chno="388" timeshift="8",Радіо TVA (UA)
 http://10.0.10.100:2021/C2BC6F81
-#EXTINF:-1 group-title="Radio/Радіо/Радио" tvg-id="87932BBD" tvg-name="Радіо Промінь (UA)" tvg-logo="http://ottpink.network/picons/radiopromin.png" tvg-chno="390" timeshift="8",Радіо Промінь (UA)
+#EXTINF:-1 group-title="Radio/Радіо/Радио" tvg-id="87932BBD" tvg-name="Радіо Промінь (UA)" tvg-logo="http://ottpink.network/picons/radiopromin.png" tvg-chno="389" timeshift="8",Радіо Промінь (UA)
 http://10.0.10.100:2021/87932BBD
-#EXTINF:-1 group-title="RUSSIA" tvg-id="92A80528" tvg-name="Ретро" tvg-logo="http://epg.it999.ru/img/2402.png" tvg-chno="391" timeshift="8",Ретро
+#EXTINF:-1 group-title="RUSSIA" tvg-id="92A80528" tvg-name="Ретро" tvg-logo="http://epg.it999.ru/img/2402.png" tvg-chno="390" timeshift="8",Ретро
 http://10.0.10.100:2021/92A80528
-#EXTINF:-1 group-title="Українські" tvg-id="06F97AE8" tvg-name="Рибалка HD (UA)" tvg-logo="http://ottpink.network/picons/rybalkatv.png" tvg-chno="392" timeshift="8",Рибалка HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="06F97AE8" tvg-name="Рибалка HD (UA)" tvg-logo="http://ottpink.network/picons/rybalkatv.png" tvg-chno="391" timeshift="8",Рибалка HD (UA)
 http://10.0.10.100:2021/06F97AE8
-#EXTINF:-1 group-title="RUSSIA" tvg-id="01F5F406" tvg-name="Россия 1" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="393" timeshift="8",Россия 1
+#EXTINF:-1 group-title="RUSSIA" tvg-id="01F5F406" tvg-name="Россия 1" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="392" timeshift="8",Россия 1
 http://10.0.10.100:2021/01F5F406
-#EXTINF:-1 group-title="RUSSIA" tvg-id="E442C20D" tvg-name="Россия 1 HD" tvg-logo="http://epg.it999.ru/img/984.png" tvg-chno="394" timeshift="8",Россия 1 HD
+#EXTINF:-1 group-title="RUSSIA" tvg-id="E442C20D" tvg-name="Россия 1 HD" tvg-logo="http://epg.it999.ru/img/984.png" tvg-chno="393" timeshift="8",Россия 1 HD
 http://10.0.10.100:2021/E442C20D
-#EXTINF:-1 group-title="RUSSIA" tvg-id="05F5D976" tvg-name="Россия 1 HD 50" tvg-logo="http://epg.it999.ru/img/984.png" tvg-chno="395" timeshift="8",Россия 1 HD 50
+#EXTINF:-1 group-title="RUSSIA" tvg-id="05F5D976" tvg-name="Россия 1 HD 50" tvg-logo="http://epg.it999.ru/img/984.png" tvg-chno="394" timeshift="8",Россия 1 HD 50
 http://10.0.10.100:2021/05F5D976
-#EXTINF:-1 group-title="RUSSIA" tvg-id="3E0D25AD" tvg-name="Россия 24 HD" tvg-logo="http://epg.it999.ru/img/1683.png" tvg-chno="396" timeshift="8",Россия 24 HD
+#EXTINF:-1 group-title="RUSSIA" tvg-id="3E0D25AD" tvg-name="Россия 24 HD" tvg-logo="http://epg.it999.ru/img/1683.png" tvg-chno="395" timeshift="8",Россия 24 HD
 http://10.0.10.100:2021/3E0D25AD
-#EXTINF:-1 group-title="RUSSIA" tvg-id="13F42E60" tvg-name="Россия-1 +2" tvg-logo="http://epg.it999.ru/img/3000.png" tvg-chno="397" timeshift="8",Россия-1 +2
+#EXTINF:-1 group-title="RUSSIA" tvg-id="13F42E60" tvg-name="Россия-1 +2" tvg-logo="http://epg.it999.ru/img/3000.png" tvg-chno="396" timeshift="8",Россия-1 +2
 http://10.0.10.100:2021/13F42E60
-#EXTINF:-1 group-title="Українські" tvg-id="88115A9D" tvg-name="СТБ HD (UA)" tvg-logo="http://ottpink.network/picons/stbtvhd.png" tvg-chno="398" timeshift="8",СТБ HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="88115A9D" tvg-name="СТБ HD (UA)" tvg-logo="http://ottpink.network/picons/stbtvhd.png" tvg-chno="397" timeshift="8",СТБ HD (UA)
 http://10.0.10.100:2021/88115A9D
-#EXTINF:-1 group-title="Kids/Дитячі/Детские" tvg-id="1683194F" tvg-name="СТС Kids HD (RU)" tvg-logo="http://ottpink.network/picons/sts-kids.png" tvg-chno="399" timeshift="8",СТС Kids HD (RU)
+#EXTINF:-1 group-title="Kids/Дитячі/Детские" tvg-id="1683194F" tvg-name="СТС Kids HD (RU)" tvg-logo="http://ottpink.network/picons/sts-kids.png" tvg-chno="398" timeshift="8",СТС Kids HD (RU)
 http://10.0.10.100:2021/1683194F
-#EXTINF:-1 group-title="RUSSIA" tvg-id="D784C4CA" tvg-name="Санкт-Петербург" tvg-logo="http://epg.it999.ru/img/690.png" tvg-chno="400" timeshift="8",Санкт-Петербург
+#EXTINF:-1 group-title="RUSSIA" tvg-id="D784C4CA" tvg-name="Санкт-Петербург" tvg-logo="http://epg.it999.ru/img/690.png" tvg-chno="399" timeshift="8",Санкт-Петербург
 http://10.0.10.100:2021/D784C4CA
-#EXTINF:-1 group-title="Українські" tvg-id="341C8C82" tvg-name="Сонце (UA)" tvg-logo="http://ottpink.network/picons/sontse.png" tvg-chno="401" timeshift="8",Сонце (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="341C8C82" tvg-name="Сонце (UA)" tvg-logo="http://ottpink.network/picons/sontse.png" tvg-chno="400" timeshift="8",Сонце (UA)
 http://10.0.10.100:2021/341C8C82
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="C4E07588" tvg-name="Спорт 1 HD (RU)" tvg-logo="http://ottpink.network/picons/sport1ru.png" tvg-chno="402" timeshift="8",Спорт 1 HD (RU)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="C4E07588" tvg-name="Спорт 1 HD (RU)" tvg-logo="http://ottpink.network/picons/sport1ru.png" tvg-chno="401" timeshift="8",Спорт 1 HD (RU)
 http://10.0.10.100:2021/C4E07588
-#EXTINF:-1 group-title="Українські" tvg-id="3AD93FD2" tvg-name="ТЕТ HD (UA)" tvg-logo="http://ottpink.network/picons/tethd.png" tvg-chno="403" timeshift="8",ТЕТ HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="3AD93FD2" tvg-name="ТЕТ HD (UA)" tvg-logo="http://ottpink.network/picons/tethd.png" tvg-chno="402" timeshift="8",ТЕТ HD (UA)
 http://10.0.10.100:2021/3AD93FD2
-#EXTINF:-1 group-title="Docu/Познавательные" tvg-id="4D4D1F65" tvg-name="Тайны галактики HD (RU)" tvg-logo="http://ottpink.network/picons/galaxyhdtv.png" tvg-chno="404" timeshift="8",Тайны галактики HD (RU)
+#EXTINF:-1 group-title="Docu/Познавательные" tvg-id="4D4D1F65" tvg-name="Тайны галактики HD (RU)" tvg-logo="http://ottpink.network/picons/galaxyhdtv.png" tvg-chno="403" timeshift="8",Тайны галактики HD (RU)
 http://10.0.10.100:2021/4D4D1F65
-#EXTINF:-1 group-title="Українські" tvg-id="A046F7BC" tvg-name="Телевсесвіт (UA-RU)" tvg-logo="http://ottpink.network/picons/televsesvit.png" tvg-chno="405" timeshift="8",Телевсесвіт (UA-RU)
+#EXTINF:-1 group-title="Українські" tvg-id="A046F7BC" tvg-name="Телевсесвіт (UA-RU)" tvg-logo="http://ottpink.network/picons/televsesvit.png" tvg-chno="404" timeshift="8",Телевсесвіт (UA-RU)
 http://10.0.10.100:2021/A046F7BC
-#EXTINF:-1 group-title="Українські" tvg-id="B26D3815" tvg-name="Тера (UA)" tvg-logo="http://ottpink.network/picons/tera.png" tvg-chno="406" timeshift="8",Тера (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="B26D3815" tvg-name="Тера (UA)" tvg-logo="http://ottpink.network/picons/tera.png" tvg-chno="405" timeshift="8",Тера (UA)
 http://10.0.10.100:2021/B26D3815
-#EXTINF:-1 group-title="Українські" tvg-id="5AACC88F" tvg-name="Трофей (UA)" tvg-logo="http://ottpink.network/picons/trofeyhd.png" tvg-chno="407" timeshift="8",Трофей (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="5AACC88F" tvg-name="Трофей (UA)" tvg-logo="http://ottpink.network/picons/trofeyhd.png" tvg-chno="406" timeshift="8",Трофей (UA)
 http://10.0.10.100:2021/5AACC88F
-#EXTINF:-1 group-title="Українські" tvg-id="94D1F984" tvg-name="Україна 24 HD (UA)" tvg-logo="http://ottpink.network/picons/ukraina24tv.png" tvg-chno="408" timeshift="8",Україна 24 HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="94D1F984" tvg-name="Україна 24 HD (UA)" tvg-logo="http://ottpink.network/picons/ukraina24tv.png" tvg-chno="407" timeshift="8",Україна 24 HD (UA)
 http://10.0.10.100:2021/94D1F984
-#EXTINF:-1 group-title="Українські" tvg-id="9504C7C8" tvg-name="Уніaн (UA)" tvg-logo="http://ottpink.network/picons/uniantv.png" tvg-chno="409" timeshift="8",Уніaн (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="9504C7C8" tvg-name="Уніaн (UA)" tvg-logo="http://ottpink.network/picons/uniantv.png" tvg-chno="408" timeshift="8",Уніaн (UA)
 http://10.0.10.100:2021/9504C7C8
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="E681F4EC" tvg-name="Фyтбoл 1 HD (UA)" tvg-logo="http://ottpink.network/picons/futb1hdua.png" tvg-chno="410" timeshift="8",Фyтбoл 1 HD (UA)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="E681F4EC" tvg-name="Фyтбoл 1 HD (UA)" tvg-logo="http://ottpink.network/picons/futb1hdua.png" tvg-chno="409" timeshift="8",Фyтбoл 1 HD (UA)
 http://10.0.10.100:2021/E681F4EC
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="9C41A78C" tvg-name="Фyтбoл 3 HD (UA)" tvg-logo="http://ottpink.network/picons/futb3hdua.png" tvg-chno="411" timeshift="8",Фyтбoл 3 HD (UA)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="9C41A78C" tvg-name="Фyтбoл 3 HD (UA)" tvg-logo="http://ottpink.network/picons/futb3hdua.png" tvg-chno="410" timeshift="8",Фyтбoл 3 HD (UA)
 http://10.0.10.100:2021/9C41A78C
-#EXTINF:-1 group-title="Sport/Спорт" tvg-id="67CDA6D3" tvg-name="Фyтбол 2 HD (UA)" tvg-logo="http://ottpink.network/picons/futb2hdua.png" tvg-chno="412" timeshift="8",Фyтбол 2 HD (UA)
+#EXTINF:-1 group-title="Sport/Спорт" tvg-id="67CDA6D3" tvg-name="Фyтбол 2 HD (UA)" tvg-logo="http://ottpink.network/picons/futb2hdua.png" tvg-chno="411" timeshift="8",Фyтбол 2 HD (UA)
 http://10.0.10.100:2021/67CDA6D3
-#EXTINF:-1 group-title="Docu/Познавательные" tvg-id="F4C07401" tvg-name="Фауна (UA/RU)" tvg-logo="http://ottpink.network/picons/fauna.png" tvg-chno="413" timeshift="8",Фауна (UA/RU)
+#EXTINF:-1 group-title="Docu/Познавательные" tvg-id="F4C07401" tvg-name="Фауна (UA/RU)" tvg-logo="http://ottpink.network/picons/fauna.png" tvg-chno="412" timeshift="8",Фауна (UA/RU)
 http://10.0.10.100:2021/F4C07401
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="6AF47161" tvg-name="Хит HD (RU)" tvg-logo="http://ottpink.network/picons/hittvhd.png" tvg-chno="414" timeshift="8",Хит HD (RU)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="6AF47161" tvg-name="Хит HD (RU)" tvg-logo="http://ottpink.network/picons/hittvhd.png" tvg-chno="413" timeshift="8",Хит HD (RU)
 http://10.0.10.100:2021/6AF47161
-#EXTINF:-1 group-title="Українські" tvg-id="FC23B080" tvg-name="Чернівецький Промінь HD (UA)" tvg-logo="http://ottpink.network/picons/chernomprom.png" tvg-chno="415" timeshift="8",Чернівецький Промінь HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="FC23B080" tvg-name="Чернівецький Промінь HD (UA)" tvg-logo="http://ottpink.network/picons/chernomprom.png" tvg-chno="414" timeshift="8",Чернівецький Промінь HD (UA)
 http://10.0.10.100:2021/FC23B080
-#EXTINF:-1 group-title="Українські" tvg-id="F594A3E1" tvg-name="Шахтар TV HD (UA)" tvg-logo="http://ottpink.network/picons/shakhtar.png" tvg-chno="416" timeshift="8",Шахтар TV HD (UA)
+#EXTINF:-1 group-title="Українські" tvg-id="F594A3E1" tvg-name="Шахтар TV HD (UA)" tvg-logo="http://ottpink.network/picons/shakhtar.png" tvg-chno="415" timeshift="8",Шахтар TV HD (UA)
 http://10.0.10.100:2021/F594A3E1
-#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="202703C9" tvg-name="Шокирующее HD (RU ST/5.1)" tvg-logo="http://ottpink.network/picons/shokiruyustsheetv.png" tvg-chno="417" timeshift="8",Шокирующее HD (RU ST/5.1)
+#EXTINF:-1 group-title="Movies/Фильмы" tvg-id="202703C9" tvg-name="Шокирующее HD (RU ST/5.1)" tvg-logo="http://ottpink.network/picons/shokiruyustsheetv.png" tvg-chno="416" timeshift="8",Шокирующее HD (RU ST/5.1)
 http://10.0.10.100:2021/202703C9
-#EXTINF:-1 group-title="Entertainment/Развлекательные" tvg-id="477A8C42" tvg-name="Ю (RU)" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="418" timeshift="8",Ю (RU)
+#EXTINF:-1 group-title="Entertainment/Развлекательные" tvg-id="477A8C42" tvg-name="Ю (RU)" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="417" timeshift="8",Ю (RU)
 http://10.0.10.100:2021/477A8C42
-#EXTINF:-1 group-title="RUSSIA" tvg-id="9728EDF2" tvg-name="ютуб" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="419" timeshift="8",ютуб
+#EXTINF:-1 group-title="RUSSIA" tvg-id="9728EDF2" tvg-name="ютуб" tvg-logo="http://10.0.10.100:2020/logo/0000.png" tvg-chno="418" timeshift="8",ютуб
 http://10.0.10.100:2021/9728EDF2
